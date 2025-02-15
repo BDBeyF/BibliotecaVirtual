@@ -1,0 +1,16 @@
+/*PAGINA REALIZADA POR DANIEL SORIA 1ºCFSK*/
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('../fuentes/Lobster-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cormorant';
+    src: url('../fuentes/CormorantSC-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fuentes/Montserrat-Regular.ttf') format('truetype');
+}
